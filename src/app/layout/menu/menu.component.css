@@ -1,0 +1,24 @@
+.menu-container {
+  display: flex;
+  align-items: center;
+  background-color: #1976d2;
+  padding: 8px 16px; 
+  color: #fff; 
+}
+
+.menu-container button {
+  color: #fff;
+}
+
+.menu-container button:hover {
+  background-color: #1565c0; 
+}
+
+.mat-menu-content {
+  background-color: #fff; 
+  color: #333; 
+}
+
+.mat-menu-content button:hover {
+  background-color: #e0e0e0;
+}
